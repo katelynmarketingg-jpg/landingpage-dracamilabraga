@@ -1,0 +1,18 @@
+Fotos esperadas para o site do Espaço Camila Braga.
+Salve os arquivos aqui com estes nomes e depois troque os blocos "photo__ph" por <img> apontando para eles (os comentários <!-- IMG: img/... --> no index.html marcam onde cada uma entra).
+
+camila-retrato-hero.jpg       - Dra. Camila Braga, retrato vertical premium (seção Hero)
+camila-consultorio.jpg        - Dra. Camila Braga em atendimento / ambiente do consultório (seção Sobre)
+implantes-destaque.jpg        - Paciente sorrindo naturalmente, foco em implantes (seção Implantes)
+clareamento-destaque.jpg      - Sorriso após clareamento dental (seção Clareamento)
+infantil-1.jpg / infantil-2.jpg / infantil-3.jpg  - Ambiente e atendimento infantil (seção Atendimento Infantil)
+familia-crianca.jpg / familia-adulto.jpg / familia-idoso.jpg - Atendimento por fase de vida (seção Odontologia para Família)
+resultado-1.jpg até resultado-6.jpg   - Galeria "Resultados Reais"
+transformacao-1.jpg até transformacao-6.jpg - Galeria "Mais Transformações"
+
+Antes e depois (sliders, seção Transformações):
+ba1-antes.jpg / ba1-depois.jpg
+ba2-antes.jpg / ba2-depois.jpg
+ba3-antes.jpg / ba3-depois.jpg
+
+Todas as fotos de pacientes precisam de autorização de uso de imagem.
